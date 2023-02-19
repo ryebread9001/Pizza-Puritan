@@ -1,6 +1,7 @@
 # Pizza-Puritan
+#[CODE](https://github.com/ryebread9001/Pizza-Puritan/tree/main/Pizza%20Puritan/Assets/Scripts)
+<br>
 
-[CODE](https://github.com/ryebread9001/Pizza-Puritan/tree/main/Pizza%20Puritan/Assets/Scripts)
 ## Overview
 
 This project is a unity built, 2d platformer centered around the idea that pizza needs to be free of pineapple.
